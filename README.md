@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=nandev%20박상훈&fontSize=70&animation=fadeIn&desc=font-end)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=nandev%20&fontSize=50&fontAlignY=40&animation=fadeIn&desc=font-end&descSize=20&descAlign=85&descAlignY=58)
 
 <!--
 **nandev-parkk/nandev-parkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
