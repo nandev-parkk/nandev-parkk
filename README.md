@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=nandev%20&fontSize=50&fontAlignY=40&animation=fadeIn&desc=font-end&descSize=20&descAlign=85&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=nandev%20&fontSize=50&fontAlignY=40&animation=fadeIn&desc=front-end&descSize=20&descAlign=85&descAlignY=58)
 
 <div align=center>
   💻 Skills
